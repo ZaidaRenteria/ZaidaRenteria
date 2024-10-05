@@ -2,7 +2,7 @@
 - 👀 I’m interested in 'omics of zoonotic diseases
 - 🌱 I’m currently learning how to use GitHub and bioinformatics in general
 - 💞️ I’m looking to collaborate on research projects within the field of animal diseases
-- 📫 How to reach me zaida.renteria@vetmed.uni-leipzig.de or zaida.m.renteria@gmail.com
+- 📫 How to reach me zaida.m.renteria@gmail.com
 
 <!---
 ZaidaRenteria/ZaidaRenteria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
